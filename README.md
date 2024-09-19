@@ -1,3 +1,10 @@
+# Golds Gym
+
+## Introduction
+
+- Golds gym is a modern fitness application developed using React JS with help of ExerciseDB API from Rapid API.
+- This application display different exercise and their similar exercises.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
